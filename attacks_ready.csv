@@ -1,4 +1,4 @@
-Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species 
+Case,Date,Year,Type,Area,Location,Activity,Sex,Age,Fatal,Time,Species 
 2017.06.11,11/06/2017,2017,Unprovoked,Western Australia,"Point Casuarina, Bunbury",Body boarding,M,48,N,08h30,"White shark, 4 m"
 2017.06.10.b,10/06/2017,2017,Unprovoked,Victoria,"Flinders, Mornington Penisula",Surfing,F,unknown,N,15h45,7 gill shark
 2017.05.27,27/05/2017,2017,unknown,New South Wales,Evans Head,Fishing ,M,73,N,unknown,unknown
@@ -106,7 +106,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 2014.02.08,8/02/2014,2014,Unprovoked,South Australia,"Goldsmith Beach, Yorke Peninsula",Spearfishing / Free diving,M,28,Y,12h00,unknown
 2014.01.26,26/01/2014,2014,Provoked,New South Wales,Umina Beach,Fishing,M,unknown,N,unknown,1m shark
 2013.12.05,5/12/2013,2013,Unprovoked,New South Wales,"Shelly Beach, near Port Macquarie",Surfing,M,26,N,18h15," Wobbegong shark, 1.6 to 1.8m "
-2013.11.30,30/11/2013,2013,Unprovoked,New South Wales,"Riecks Point,  Campbell’s Beach, ",Body boarding,M,19,Y,14h00,"Tiger shark, 3m "
+2013.11.30,30/11/2013,2013,Unprovoked,New South Wales,"Riecks Point,  Campbellï¿½s Beach, ",Body boarding,M,19,Y,14h00,"Tiger shark, 3m "
 2013.11.23.a,23/11/2013,2013,Unprovoked,Western Australia,Gracetown,Surfing,M,35,Y,09h00,Thought to involve a white shark
 2013.11.12,12/11/2013,2013,Unprovoked,Western Australia,"Trigg Beach, Perth",Surfing,M,unknown,N,15h00,Reported to involve a white shark
 2013.10.28,28/10/2013,2013,Unprovoked,Western Australia,Turquoise Bay,Snorkeling,F,60,N,Afternoon,"Blacktip reef shark, 1m"
@@ -315,7 +315,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 2003.02.15.b,15/02/2003,2003,Unprovoked,South Australia,"Goolwa Beach, Fleurieu Peninsula",Wading,M,37,N,Dusk,"""a small shark"""
 2003.02.11,11/02/2003,2003,Unprovoked,New South Wales,"Coogee Bay, near Sydney",Swimming,M,24,N,unknown,Thought to involve a 2 m [6.75'] grey nurse shark
 2003.02.08,8/02/2003,2003,Unprovoked,Queensland,Burleigh Lake on the Gold Coast,Swimming,M,84,Y,Morning,Thought to involve a >2 m [6.75'] bull shark
-2003.01.02,2/01/2003,2003,Unprovoked,Western Australia,Left break at the ‘Hot Spot’ at Sheringa Beach,Surfing,F,unknown,N,13h00,"Bronze whaler shark, 2.5 m [8.25'] "
+2003.01.02,2/01/2003,2003,Unprovoked,Western Australia,Left break at the ï¿½Hot Spotï¿½ at Sheringa Beach,Surfing,F,unknown,N,13h00,"Bronze whaler shark, 2.5 m [8.25'] "
 2002.12.29,29/12/2002,2002,Unprovoked,Queensland,Great Barrier Reef  (near Upolu Bay),Snorkeling,F,18,N,unknown,Reported to involve a hammerhead shark
 2002.12.21,21/12/2002,2002,Unprovoked,Queensland,Depth of 40 m on the wreck of the St. Paul off Brisbane,Scuba diving,M,26,N,unknown,"Wobbegong shark, 1m"
 2002.12.20,20/12/2002,2002,unknown,Queensland,Golden Beach,Swimming,M,11,N,unknown,"Shark involvement not confirmed, injury may be due to a stingray"
@@ -401,7 +401,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1994.12.09.b,9/12/1994,1994,unknown,Queensland,"Hinchinbrook Channel, Queensland",Murder victim,M,44,N,unknown,unknown
 1994.01.12.R,12/01/1994,1994,Boat,Western Australia,Albany,Fishing,unknown,unknown,N,07h30,White shark
 1994.01.09,9/01/1994,1994,Unprovoked,Queensland,"Katana Downs Reach, Brisbane River","Swimming, after falling off towed kneeboard",M,23,N,unknown,1.5 m shark
-1993.11.21,21/11/1993,1993,Unprovoked,Western Australia, A pearl  farm in Roebuck Bay,Hookah diving,M,27,Y,15h15,Tiger shark caught 6 days later with diver’s remains in its gut
+1993.11.21,21/11/1993,1993,Unprovoked,Western Australia, A pearl  farm in Roebuck Bay,Hookah diving,M,27,Y,15h15,Tiger shark caught 6 days later with diverï¿½s remains in its gut
 1993.08.14,14/08/1993,1993,Boat,Western Australia,Off Rottnest Island,Fishing,unknown,unknown,N,unknown,6 m [20'] white shark
 1993.06.09,9/06/1993,1993,Unprovoked,New South Wales,"Julian Rocks, Byron Bay",Scuba diving,M,31,Y,09h30,Remains recovered from 5.5 m [18'] white shark
 1993.06.05,5/06/1993,1993,Unprovoked,Tasmania,Tenth Island (King Island),Scuba diving at seal colony,F,34,Y,10h55,5 m [16.5'] white shark
@@ -461,7 +461,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1986.05.18,18/05/1986,1986,Unprovoked,New South Wales,"North Head, Sydney Harbour",Scuba diving,M,unknown,N,unknown,Wobbegong shark
 1986.02.01,1/02/1986,1986,Unprovoked,Victoria,Jan Juc Beach,Surfing,M,29,N,06j00,"Bronze whaler shark, 3.5 m "
 1985.11.11,11/11/1985,1985,Provoked,Queensland,Gladstone,Fishing,M,unknown,N,Afternoon,1m shark
-1985.03.03,3/03/1985,1985,Unprovoked,South Australia,"Wiseman’s Beach, Peake Bay, Port Lincoln",Free diving for scallops,F,33,Y,12h30,6 m [20'] white shark
+1985.03.03,3/03/1985,1985,Unprovoked,South Australia,"Wisemanï¿½s Beach, Peake Bay, Port Lincoln",Free diving for scallops,F,33,Y,12h30,6 m [20'] white shark
 1984.11.30,30/11/1984,1984,Unprovoked,Queensland,1 km off Black's Beach,Sailing on catamaran & fell into the water,M,16,Y,12h33,"Tiger shark, 4 m "
 1984.03.01,1/03/1984,1984,Unprovoked,Western Australia,Coral Bay,unknown,unknown,unknown,unknown,unknown,unknown
 1984.02.11,11/02/1984,1984,Unprovoked,Queensland,Derwent Island,Spearfishing,M,27,N,unknown,1.5 m white-tipped reef shark
@@ -547,7 +547,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1968.12.26,26/12/1968,1968,Provoked,New South Wales,"Marineland Aquarium, Manley, Sydney",Feeding mullet to sharks,M,27,N,Morning,"Grey nurse shark, 10' "
 1968.12.09,9/12/1968,1968,Unprovoked,South Australia,Thistle Island,unknown,M,unknown,N,unknown,White shark
 1968.11.02,2/11/1968,1968,Provoked,Western Australia,unknown,unknown,M,16,N,15h00,unknown
-1968.04.15,15/04/1968,1968,Unprovoked,New South Wales,South Coast,"Diving. Shark “swallowed’ his hand, so he threw his other around the shark and went “shark-back riding” for 30 yards until the shark opened its jaws",M,21,N,unknown,"Bronze whaler shark, 1.8 m [6'] "
+1968.04.15,15/04/1968,1968,Unprovoked,New South Wales,South Coast,"Diving. Shark ï¿½swallowedï¿½ his hand, so he threw his other around the shark and went ï¿½shark-back ridingï¿½ for 30 yards until the shark opened its jaws",M,21,N,unknown,"Bronze whaler shark, 1.8 m [6'] "
 1968.04.07,7/04/1968,1968,Provoked,New South Wales,Stockton Bight,unknown,M,47,N,Early morning,"""Blue whaler"" (Galeolamna)"
 1968.02.20,20/02/1968,1968,Unprovoked,Western Australia,Swan River,Swimming,F,14,N,Late afternoon,unknown
 1968.02.04,4/02/1968,1968,Unprovoked,South Australia,Cape Jervis,Spearfishing,M,26,N,18h30,"Bronze whaler shark, 3 m [10'] "
@@ -599,7 +599,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1963.04.22,22/04/1963,1963,Provoked,New South Wales,Clarence Head,Fishing,M,unknown,N,unknown,Grey nurse shark
 1963.04.13,13/04/1963,1963,Unprovoked,Western Australia,Yallingup,"Surfing on ""chest board"" (boogie board?)",M,25,N,unknown,1.8 m to 2.4 m  [6' to 8'] shark
 1963.02.24,24/02/1963,1963,Unprovoked,New South Wales,Wombarra Beach near Austinmeer,Spearfishing,M,18,N,Afternoon,"Bronze whaler shark, 3 m [10'] "
-1963.01.28,28/01/1963,1963,Unprovoked,New South Wales,"Sugarloaf Bay, Middle Harbour, Sydney",Wading,F,32,Y,13h30,"Tooth fragments of “whaler” shark were recovered, a bull shark, according to Edwards"
+1963.01.28,28/01/1963,1963,Unprovoked,New South Wales,"Sugarloaf Bay, Middle Harbour, Sydney",Wading,F,32,Y,13h30,"Tooth fragments of ï¿½whalerï¿½ shark were recovered, a bull shark, according to Edwards"
 1963.01.26,26/01/1963,1963,unknown,New South Wales,Evans Head,Swimming,M,25,Y,16h30,unknown
 1963.01.04,4/01/1963,1963,Provoked,South Australia,Off Franklin Island between Streaky Bay & Ceduna,Shark fishing,unknown,unknown,N,unknown,"White shark, 16', 2,312-lb "
 1962.12.09,9/12/1962,1962,Unprovoked,South Australia,Carrickalinga Head,Spearfishing,M,16,Y,14h30,"White shark, 4.3 m [14'] (or bronze whaler)"
@@ -610,7 +610,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1962.06.07,7/06/1962,1962,Boat,Western Australia,Emu Point,Fishing,unknown,unknown,N,07h00,unknown
 1962.04.20,20/04/1962,1962,Provoked,Queensland,Nobbys Beach,Fishing,unknown,unknown,N,unknown,"Bronze whaler shark, 3.7 m [12'] "
 1962.03.25.a,25/03/1962,1962,Boat,New South Wales,Norah Head,Fishing & spearfishing,unknown,unknown,N,unknown,"Bronze whaler shark, 4.6 m [15'] "
-1962.02.15,15/02/1962,1962,Unprovoked,Queensland,Between Smith’s Rock & Moreton Island,Fishing for snappers & cleaning mullet. Put mullet over side of boat to wash it,M,unknown,N,A.M.,3.7 m [12'] shark
+1962.02.15,15/02/1962,1962,Unprovoked,Queensland,Between Smithï¿½s Rock & Moreton Island,Fishing for snappers & cleaning mullet. Put mullet over side of boat to wash it,M,unknown,N,A.M.,3.7 m [12'] shark
 1962.02.04,4/02/1962,1962,Unprovoked,Queensland,Greenmount Beach,Swimming,M,35,N,14h30,60 cm  shark 
 1962.01.21,21/01/1962,1962,Provoked,New South Wales,Cronulla,Spearfishing,M,19,N,unknown,"Bronze whaler shark,  3m [10'] "
 1962.01.14.b,14/01/1962,1962,Provoked,New South Wales,"Long Reef, North Manly",Spearfishing,unknown,unknown,N,unknown," Grey nurse shark,  3 m [10'] "
@@ -622,14 +622,14 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1962.01.07.a,7/01/1962,1962,Unprovoked,New South Wales,Sydney,Surfing,unknown,unknown,N,unknown,unknown
 1962.01.02,2/01/1962,1962,Provoked,New South Wales,"Seaspray, near Sale",Fishing,unknown,unknown,N,unknown,2.7 m [9'] shark
 1961.12.28.c,28/12/1961,1961,Unprovoked,Queensland,"Lambert's Beach, Mackay",Standing,F,18,Y,16h15,3 m [10'] shark
-1961.12.28.b,28/12/1961,1961,Unprovoked,Queensland,"Lambert’s Beach, Mackay",Standing,M,24,N,16h15,3 m [10'] shark
+1961.12.28.b,28/12/1961,1961,Unprovoked,Queensland,"Lambertï¿½s Beach, Mackay",Standing,M,24,N,16h15,3 m [10'] shark
 1961.12.27,27/12/1961,1961,Provoked,Western Australia,"North of main swimming area in Waterman's Bay Beach, Perth",Spearfishing,M,23,N,07h00,"Grey nurse shark, 2.4 m [8'] "
 1961.12.19,19/12/1961,1961,Boat,South Australia,Cowell,"Fishing, hauling in a 5-lb snapper",unknown,unknown,N,unknown,2.7 m [9'] shark
 1961.12.18.a,18/12/1961,1961,Unprovoked,Queensland,Noosa Heads,"Surfing, pushing board ashore",M,22,Y,06h15,Next morning a 3 m [10'] shark was caught that had Andrews' leg in its gut
 1961.12.13,13/12/1961,1961,Unprovoked,Torres Strait,"Horn Island, near Thursday Island",Swimming with other crew near wharf,M,17,N,14h00,1.8 m [6'] shark
 1961.09.06,6/09/1961,1961,unknown,Western Australia,Broome,Attaching a line at sea,unknown,unknown,Y,unknown,unknown
 1961.07.07.b,7/07/1961,1961,Provoked,Queensland,Cape Moreton,Shark fishing,unknown,unknown,N,unknown,"White shark, 5.2 m [17'], 2500-lb "
-1961.05.07,7/05/1961,1961,Provoked,Western Australia,"Quinn’s Rocks, south of Yanchep",Spearfishing,M,unknown,N,unknown,unknown
+1961.05.07,7/05/1961,1961,Provoked,Western Australia,"Quinnï¿½s Rocks, south of Yanchep",Spearfishing,M,unknown,N,unknown,unknown
 1961.04.25,25/04/1961,1961,Provoked,New South Wales,"Trial Bay, north of Kempsey",Spearfishing,M,unknown,N,12h00,"Wobbegong shark, 1.4 m [4'6""] "
 1961.04.16.a,16/04/1961,1961,Provoked,New South Wales,Otford,Spearfishing,M,21,N,unknown,"Wobbegong shark, O. barbatus,  1.8 m [6'], identified by G.P. Whitley"
 1961.04.14,14/04/1961,1961,Unprovoked,New South Wales,10 miles off Nambucca Heads  onboard trawler,"Checking fish traps, fell into the water",M,40,N,Night," ""gummy"" shark (Rhizoprionodon or Loxodon) 1.2 m [4']"
@@ -646,10 +646,10 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1961.01.02.R,2/01/1961,1961,Boat,Tasmania,Off Tasman Island,Ocean racing,unknown,unknown,N,unknown,unknown
 1961.00.00.e,14/05/1905,1961,Boat,New South Wales,South coast,Fishing for mackerel,unknown,unknown,N,unknown,unknown
 1960.12.27.a.,27/12/1960,1960,Unprovoked,New South Wales,"Bondi Beach, Sydney",unknown,F,27, N,unknown,3 m [10'] shark
-1960.12.20,20/12/1960,1960,Unprovoked,Queensland,"College’s Crossing, 54 miles above mouth of the Brisbane River","Fishing, when line became snagged on rock & he dived into water to free it ",M,33, N,09h00,"Grey nurse shark, 1m "
+1960.12.20,20/12/1960,1960,Unprovoked,Queensland,"Collegeï¿½s Crossing, 54 miles above mouth of the Brisbane River","Fishing, when line became snagged on rock & he dived into water to free it ",M,33, N,09h00,"Grey nurse shark, 1m "
 1960.12.01,1/12/1960,1960,Unprovoked,Queensland,"Colledge's Crossing, Brisbane River",Fishing,M,unknown,N,unknown,"Bull shark, 1m "
-1960.11.27,27/11/1960,1960,Unprovoked,Queensland,"Black’s Beach, 9 miles north of Mackay",Swimming,M,41, N,14h45,3' shark
-1960.11.11,11/11/1960,1960,Provoked,Queensland,"Scott’s Point, Redcliffe Peninsula",Chasing shark out of bathing area while riding on a surf-ski,M,17, N,15h00,unknown
+1960.11.27,27/11/1960,1960,Unprovoked,Queensland,"Blackï¿½s Beach, 9 miles north of Mackay",Swimming,M,41, N,14h45,3' shark
+1960.11.11,11/11/1960,1960,Provoked,Queensland,"Scottï¿½s Point, Redcliffe Peninsula",Chasing shark out of bathing area while riding on a surf-ski,M,17, N,15h00,unknown
 1960.11.06,6/11/1960,1960,Unprovoked,Western Australia,Hamelin Bay,"Spearfishing, speared fish retreated to cave where shark grabbed his arm",M,24, N,unknown,"Wobbegong shark, 1.8 m [6'] "
 1960.10.02,1/10/1960,1960,unknown,New South Wales,North Head,Fishing,M,24, N,unknown,Shark involvement not confirmed
 1960.09.18,18/09/1960,1960,Boat,Western Australia,Frenchman Bay,unknown,unknown,unknown,N,unknown,3.7 m [12'] shark
@@ -657,7 +657,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1960.04.12,12/04/1960,1960,Unprovoked,New South Wales,"Horseshoe Bay, near Kempsey",Surfing,M,17,N,Late afternoon,"White shark, 3.7 m [12'] "
 1960.04.10,10/04/1960,1960,Provoked,Western Australia,Off Rottnest Island,"Spearfishing, shot a sandtiger shark. Cord to spear tangled round his legs & a wave washed him onto a reef.",M,unknown,N,unknown,"Sandtiger shark, 2.1 m [7'] "
 1960.04.03.b,3/04/1960,1960,Unprovoked,Victoria,"Canadian Bay near Mount Eliza, 30 miles from Melbourne",Spearfishing,M,unknown,N,unknown,1.5 m [5'] shark
-1960.04.03.a,3/04/1960,1960,Unprovoked,New South Wales,Off Broughton Island near Port Stephens,"Speared a grouper, saw shark but it came for him instead of the fish so he fired spear into shark’s mouth. Then shark took grouper but unable to swallow because of the spear in its mouth.",M,unknown,N,12h00,"Bronze whaler shark, 3.7 m [12'] identified by G.P. Whitley based on description"
+1960.04.03.a,3/04/1960,1960,Unprovoked,New South Wales,Off Broughton Island near Port Stephens,"Speared a grouper, saw shark but it came for him instead of the fish so he fired spear into sharkï¿½s mouth. Then shark took grouper but unable to swallow because of the spear in its mouth.",M,unknown,N,12h00,"Bronze whaler shark, 3.7 m [12'] identified by G.P. Whitley based on description"
 1960.04.01,1/04/1960,1960,Provoked,South Australia,Hog Bay,Shark fishing,unknown,unknown,N,unknown,White shark
 1960.02.29,29/02/1960,1960,Unprovoked,Tasmania,Ralph Bay,"Wading, fishing for flounder",M,31,N,Night,Two 2.1 m [7'] sharks
 1960.02.10.,10/02/1960,1960,Provoked,New South Wales,Near Bondi Beach,Shark fishing,unknown,unknown,N,unknown,"Tiger shark, 14' "
@@ -697,7 +697,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1957.05.11,11/05/1957,1957,Unprovoked,New South Wales,"Tea Gardens, north of Newcastle",Competing in spearfishing championship & towing dead fish,M,28,N,12h00,4.6 m [15'] shark
 1957.04.23,23/04/1957,1957,Unprovoked,New South Wales,"Merewether Beach, Newcastle",Surfing,M,15,N,unknown,Wobbegong shark?
 1957.04.13,13/04/1957,1957,Unprovoked,Torres Strait,"Thursday Island Harbour, Queensland",Swimming between  anchored  pearling luggers,M,22,N,14h00,Shark seen feeding on turtle scraps thrown overboard prior to incident.
-1957.02.02,2/02/1957,1957,Unprovoked,Western Australia,Cape Levêque,unknown,M,unknown,unknown,unknown,unknown
+1957.02.02,2/02/1957,1957,Unprovoked,Western Australia,Cape Levï¿½que,unknown,M,unknown,unknown,unknown,unknown
 1956.08.15.b,15/08/1956,1956,Provoked,Queensland,Near Southport,Diving,M,unknown,N,unknown,"Wobbegong shark, 4' "
 1956.06.28,28/06/1956,1956,Unprovoked,Torres Strait,"Fishman's Island (near Port Moresby, PNG) ","Line fishing from Lakotoi, saw shoal of fish, dived overboard, had speared second fish & surfaced for air",M,unknown,N,unknown,2.3 m [7'] shark
 1956.05.00,1/05/1956,1956,Unprovoked,Torres Strait,unknown,Diving,unknown,unknown,N,unknown,unknown
@@ -712,10 +712,10 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1955.10.16,16/10/1955,1955,Provoked,Queensland,"Tully, North Queensland",Spearfishing & lassoed shark,M,28,N,unknown,6' shark
 1955.08.00.a,1/08/1955,1955,Boating,South Australia,Port Augusta,Fishing,unknown,unknown,N,unknown,Tooth fragments recovered from hull
 1955.03.09,9/03/1955,1955,Unprovoked,New South Wales,Wamberal,Body surfing,M,22,Y,18h00,unknown
-1955.03.00.a,1/03/1955,1955,Provoked,Western Australia,Woodman’s Point,"Competing in U/W endurance record, standing beside drum in 10' of water",M,25,N,11h55,unknown
+1955.03.00.a,1/03/1955,1955,Provoked,Western Australia,Woodmanï¿½s Point,"Competing in U/W endurance record, standing beside drum in 10' of water",M,25,N,11h55,unknown
 1955.02.05,5/02/1955,1955,Unprovoked,New South Wales,"Sugarloaf Bay, Middle Harbor, Sydney",Swimming,M,25,Y,14h35,3.6 m  white shark  (or bronze whaler)
 1955.02.01.,1/02/1955,1955,Boating,New South Wales,Parramatta River,Rowing,unknown,unknown,N,unknown,unknown
-1955.02.00,1/02/1955,1955,Boating,New South Wales,Coff’s Harbor,Rowing toward snapper grounds,unknown,unknown,N,unknown,4 m [13'] shark x 6
+1955.02.00,1/02/1955,1955,Boating,New South Wales,Coffï¿½s Harbor,Rowing toward snapper grounds,unknown,unknown,N,unknown,4 m [13'] shark x 6
 1955.01.17,17/01/1955,1955,Unprovoked,New South Wales,"Wyargine Point, Edwards Beach, Balmoral Beach, Sydney",Hunting lobsters in 2.4 m of water,M,13,Y,14h30,"Bronze whaler shark,3.7 m [12'] "
 1954.12.11,11/12/1954,1954,Unprovoked,Victoria,Point Lonsdale,Swimming,M,23,Y,11h00,unknown
 1954.09.04,4/09/1954,1954,Unprovoked,Torres Strait,"Darnley Island, Torres Strait","Spearfishing, hunting crayfish",M,35,Y,unknown,9' shark
@@ -741,7 +741,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1951.12.16,16/12/1951,1951,Provoked,New South Wales,North Bondi,Spearfishing,M,18,N,unknown,"Wobbegong shark, 1.8 m [6'] "
 1951.12.06,6/12/1951,1951,Unprovoked,New South Wales,"Merewether Beach, Newcastle",Treading water,M,21,Y,16h00,2.4 m [8']  shark
 1951.10.22,22/10/1951,1951,Unprovoked,Queensland,"Ocean baths, Kissing Point Beach ",Swimming,M,42,Y,19h10,unknown
-1951.09.02-R,2/09/1951,1951,Unprovoked,Queensland,Fitzroy River near Rockhampton,"Body found on deserted luxury yacht, 38’ Christine",M,56,Y,unknown,unknown
+1951.09.02-R,2/09/1951,1951,Unprovoked,Queensland,Fitzroy River near Rockhampton,"Body found on deserted luxury yacht, 38ï¿½ Christine",M,56,Y,unknown,unknown
 1951.03.26,26/03/1951,1951,Provoked,New South Wales,Avalon,Fell off surf ski,M,23,N,Afternoon,"Wobbegong shark, 4'"
 1951.03.24,24/03/1951,1951,Unprovoked,New South Wales,Sydney,"Fishing, casting in the surf",M,unknown,N,unknown,5.5 m [18'] shark
 1951.02.03,3/02/1951,1951,Unprovoked,New South Wales,"Windang, near the entrance to Lake Illawarra",Spearfishing (but treading water on the surface),M,20,N,unknown,unknown
@@ -763,8 +763,8 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1949.12.00.a,1/12/1949,1949,Unprovoked,Victoria,Seaholme,Lying on the bottom of a 16' dinghy,M,35,N,unknown,"Grey nurse shark, 2.6 m [8.5']  "
 1949.11.20,20/11/1949,1949,Unprovoked,New South Wales,"Kurnell, Botany Bay ",Free diving or wading back to shore,M,36,N,Afternoon,6' shark
 1949.11.12,12/11/1949,1949,unknown,Victoria,Port Phillip Bay,No details,M,unknown,Y,unknown,unknown
-1949.08.28.b,28/08/1949,1949,Unprovoked,Queensland,Yorkey’s Knob Beach near Cairns,Swimming,M,21,N,13h20,unknown
-1949.08.28.a,28/08/1949,1949,Unprovoked,Queensland,Yorkey’s Knob Beach near Cairns,Swimming,M,34,Y,13h20,unknown
+1949.08.28.b,28/08/1949,1949,Unprovoked,Queensland,Yorkeyï¿½s Knob Beach near Cairns,Swimming,M,21,N,13h20,unknown
+1949.08.28.a,28/08/1949,1949,Unprovoked,Queensland,Yorkeyï¿½s Knob Beach near Cairns,Swimming,M,34,Y,13h20,unknown
 1949.08.16,16/08/1949,1949,Unprovoked,Tasmania,Flinders Island,Swimming near shore,M,18,N,16h00,unknown
 1949.05.16,16/05/1949,1949,Unprovoked,Western Australia,Broome,Bathing,F,22,N,unknown,"Whaler shark, 2.7 m [9'], 350- to 450-lb  identified by G.P. Whitley"
 1949.05.13,13/05/1949,1949,Provoked,New South Wales,Nelson's Bay,"Examining netted shark, that had been shot",M,26,N,unknown,unknown
@@ -776,7 +776,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1949.01.13,13/01/1949,1949,Unprovoked,New South Wales,"Mona Vale, near Sydney",Surf skiing,M,unknown,N,unknown,unknown
 1949.01.05,5/01/1949,1949,unknown,Western Australia,"Leighton Beach, North Fremantle",unknown,unknown,unknown,unknown,unknown,"Tiger shark, 2.4 m [8']"
 1948.12.27,27/12/1948,1948,Unprovoked,Western Australia,Lancelin Island,Swimming,M,17,Y,unknown,His hand was found in a 2.4 m [8'] tiger shark caught 1/5/1949
-1948.12.26,26/12/1948,1948,Unprovoked,Queensland,"King’s Beach, Caloundra","Treading water, waiting for a wave",M,28,Y,11h30,unknown
+1948.12.26,26/12/1948,1948,Unprovoked,Queensland,"Kingï¿½s Beach, Caloundra","Treading water, waiting for a wave",M,28,Y,11h30,unknown
 1948.12.10,10/12/1948,1948,Unprovoked,Queensland,Rib Reef off Townsville,Fishing,M,unknown,N,unknown,unknown
 1948.11.18,18/11/1948,1948,Unprovoked,Torres Strait,"Saibai Island, 80 miles north of Cape York",Pearl diving,M,41,N,unknown,unknown
 1948.02.12,12/02/1948,1948,Unprovoked,New South Wales,"Stockton Beach, Newcastle",Swimming,M,16,Y,unknown,3.7 m [12'] shark
@@ -797,14 +797,14 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1946.12.28,28/12/1946,1946,Unprovoked,South Australia,Glenelg,Swimming near jetty with 2' piece of wood,M,23,N,unknown,unknown
 1946.12.24.R,24/12/1946,1946,Boating,Queensland,"Auckland Creek, Gladstone",unknown,unknown,unknown,N,unknown,7' shark
 1946.11.20,20/11/1946,1946,Unprovoked,Torres Strait,40 miles off Thursday Island,Pearl diving from lugger,M,30,Y,unknown,unknown
-1946.10.14,14/10/1946,1946,Unprovoked,New South Wales,"Mark’s Point, Swan Bay, Lake Macquarie",Swimming,M,15,N,unknown,unknown
+1946.10.14,14/10/1946,1946,Unprovoked,New South Wales,"Markï¿½s Point, Swan Bay, Lake Macquarie",Swimming,M,15,N,unknown,unknown
 1946.08.18,18/08/1946,1946,Unprovoked,Queensland,"Ellis Beach, 20 miles from Cairns",Swimming after a tennis ball,M,30,Y,15h20,4.3 m [14'] shark
 1946.04.19,19/04/1946,1946,Unprovoked,Queensland,"Trinity Beach, Cairns",Swimming,M,17,Y,13h30,unknown
 1946.04.00,1/04/1946,1946,Boating,South Australia,Port Newby,Fishing,unknown,unknown,N,unknown,6 m [20']  shark
 1946.03.20,20/03/1946,1946,Boating,South Australia,Grange,Fishing,M,28,N,19h00,unknown
 1946.02.10.b,10/02/1946,1946,Unprovoked,Western Australia,"City Beach, Perth",Standing,M,18,N,12h15,"White shark, 4.2 m [13'9""] "
 1946.01.17,17/01/1946,1946,Unprovoked,Queensland,Townsville,unknown,M,12,N,unknown,small shark
-1946.01.05,5/01/1946,1946,Unprovoked,New South Wales,"Oatley Bay near Como, George’s River",Swimming,F,14,Y,unknown,unknown
+1946.01.05,5/01/1946,1946,Unprovoked,New South Wales,"Oatley Bay near Como, Georgeï¿½s River",Swimming,F,14,Y,unknown,unknown
 1945.06.15,15/06/1945,1945,Unprovoked,Queensland,"Trinity Beach, Cairns",Swimming,M,unknown,Y,16h00,unknown
 1944.11.01,1/11/1944,1944,unknown,Queensland,Maroochydore Beach,Swimming,M,unknown,Y,unknown,unknown
 1944.10.23.R,23/10/1944,1944,Boating,Queensland,Tewantin,Fishing,unknown,unknown,N,unknown,unknown
@@ -815,7 +815,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1942.12.26,26/12/1942,1942,Unprovoked,New South Wales,"Bantry Bay, near Ironstone Point, Middle Harbor, Sydney",Dog paddling or standing,F,15,Y,10h50,Bull shark
 1942.09.12.a,12/09/1942,1942,Unprovoked,Queensland,"Trinity Beach, 17 km northwast of Cairns",Treading water,M,24,N,16h30,"Tiger shark, 2.4 m to 3 m [8' to 10'] "
 1942.05.09,9/05/1942,1942,Unprovoked,Queensland,"Great Barrier Reef, off Cairns",Diving from lugger,M,unknown,N,unknown,unknown
-1942.03.04,4/03/1942,1942,unknown,New South Wales,George’s River,unknown,M,18,Y,unknown,unknown
+1942.03.04,4/03/1942,1942,unknown,New South Wales,Georgeï¿½s River,unknown,M,18,Y,unknown,unknown
 1942.01.18,18/01/1942,1942,Boating,New South Wales,Fairy Bower,unknown,unknown,unknown,N,unknown,unknown
 1942.01.04,4/01/1942,1942,Unprovoked,New South Wales,"Egg Rock, Middle Harbor, Sydney",Swimming,F,28,Y,15h00,"Bull shark, 4 m [13'] "
 1942.01.00,1/01/1942,1942,Provoked,New South Wales,"Fairy Bower, near North Steyne",Surf-skiing,M,unknown,N,unknown,3 m [10'] shark
@@ -834,7 +834,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1940.01.23,23/01/1940,1940,Unprovoked,New South Wales,"North Brighton, Botany Bay",Swimming,M,13,Y,10h40,3 m [10'] shark
 1940.01.15,15/01/1940,1940,Unprovoked,Queensland,"Surfers Paradise, near Southport",Swimming,M,22,N,Afternoon,unknown
 1940.01.01,1/01/1940,1940,Unprovoked,Queensland,"Malagil, Barrier Reef",Diving for trochus,M,unknown,N,unknown,unknown
-1939.12.28,28/12/1939,1939,unknown,New South Wales,"Cabramatta Creek, George’s River ",Swimming,M,40,N,unknown,6' shark
+1939.12.28,28/12/1939,1939,unknown,New South Wales,"Cabramatta Creek, Georgeï¿½s River ",Swimming,M,40,N,unknown,6' shark
 1939.12.14,14/12/1939,1939,Unprovoked,Queensland,"Rubbish Dump Creek, Mackay",Swimming ,M,20,Y,12h15,2.6 m [8.5'] shark landed 2 hours later
 1939.11.23,23/11/1939,1939,Boating,New South Wales,Wollongong,unknown,unknown,unknown,N,unknown,"Blue pointer, 16'"
 1939.11.11,11/11/1939,1939,Provoked,New South Wales,Maroubra,unknown,unknown,unknown,N,unknown,whaler shark
@@ -849,7 +849,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1938.06.08,8/06/1938,1938,Unprovoked,New South Wales,Manly,Hardhat diving,M,unknown,N,unknown,6' shark
 1938.03.08,8/03/1938,1938,Unprovoked,Northern Territory,Liverpool River,Canoe capsized by shark,M,unknown,N,unknown,unknown
 1938.01.21,21/01/1938,1938,Provoked,New South Wales,Tweed Heads,Fishing,M,unknown,N,unknown," Tiger shark, 3'"
-1938.01.14,14/01/1938,1938,Unprovoked,New South Wales,"Lady Martin’s Beach, Sydney Harbor",Diving off jetty,M,24,N,Afternoon,Questionable incident
+1938.01.14,14/01/1938,1938,Unprovoked,New South Wales,"Lady Martinï¿½s Beach, Sydney Harbor",Diving off jetty,M,24,N,Afternoon,Questionable incident
 1938.01.02,2/01/1938,1938,Unprovoked,New South Wales,Cronulla,Surf skiing,M,unknown,N,unknown,unknown
 1938.00.00.b,21/04/1905,1938,Unprovoked,Torres Strait,unknown,Diving,M,17,N,unknown,unknown
 1937.11.11,11/11/1937,1937,Unprovoked,Torres Strait ,Ota Reef,Diving for trochus,M,17,Y,unknown,12' shark
@@ -908,8 +908,8 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1935.01.24.b,24/01/1935,1935,Unprovoked,New South Wales,"Off Ben Buckler, near Sydney",Fishing,M,unknown,N,unknown,"Tiger shark, 12' "
 1935.01.24.a,24/01/1935,1935,Boating,Queensland,"Ross River, Townsville",Fishing for sharks,unknown,unknown,N,unknown,2 sharks
 1935.01.17,17/01/1935,1935,unknown,Queensland,"Seaforth River, near MacKay",unknown,M,5,N,unknown,10' shark
-1934.12.31.b,31/12/1934,1934,Unprovoked,New South Wales,George’s River at Kentucky,Splashing,F,13,N,20h15,"Tiger shark, 1.5 m [5'] "
-1934.12.31.a,31/12/1934,1934,Unprovoked,New South Wales," St. George’s River at Moorebank, near Milperra Bridge",Swimming (lead swimmer in race),M,19,Y,16h30,unknown
+1934.12.31.b,31/12/1934,1934,Unprovoked,New South Wales,Georgeï¿½s River at Kentucky,Splashing,F,13,N,20h15,"Tiger shark, 1.5 m [5'] "
+1934.12.31.a,31/12/1934,1934,Unprovoked,New South Wales," St. Georgeï¿½s River at Moorebank, near Milperra Bridge",Swimming (lead swimmer in race),M,19,Y,16h30,unknown
 1934.12.23.b,23/12/1934,1934,Unprovoked,New South Wales,Woy Woy  on the Brisbane Waters,Taken as he dived into the water,M,14,Y,13h00,unknown
 1934.12.23.a,23/10/1934,1934,Unprovoked,New South Wales,Woy Woy on the Brisbane Waters,Swimming & splashing,M,12,N,13h00,unknown
 1934.10.09,9/10/1934,1934,Unprovoked,Northern Territory,"Redcliff, Cobourg Peninsula",Bathing,F,38,Y,unknown,unknown
@@ -922,7 +922,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1934.03.12,12/03/1934,1934,Unprovoked,New South Wales,"Dee Why, north of Queenscliff ",Swimming in hip-deep water,M,17,Y,15h00,4 m [13'] shark seen in vicinity
 1934.03.00,1/03/1934,1934,Provoked,New South Wales,Cronulla,Fishing ,unknown,unknown,N,unknown,"Mako shark, 3.7 m [12'] identified by tooth fragments by G.P. Whitley"
 1934.02.24,24/02/1934,1934,Unprovoked,Torres Strait,Adolphus Channel,Splashing in water ,M,unknown,N,12h00,3.4 m [11']  tiger shark & a 5' shark
-1934.01.27,27/01/1934,1934,Unprovoked,New South Wales,"Lambeth Street Wharf, George’s River, East Hills (20 miles from river mouth)",Swimming outside the safety enclosure attempting to retrieve a tennis ball drifting toward midstream ,M,15,N,unknown,unknown
+1934.01.27,27/01/1934,1934,Unprovoked,New South Wales,"Lambeth Street Wharf, Georgeï¿½s River, East Hills (20 miles from river mouth)",Swimming outside the safety enclosure attempting to retrieve a tennis ball drifting toward midstream ,M,15,N,unknown,unknown
 1934.01.07,7/01/1934,1934,Unprovoked,New South Wales,Queenscliff,Swimming on sandbar adjacent to channel,M,22,N,15h30,4.3 m [14'] shark seen in area previous week
 1933.11.20,20/11/1933,1933,Unprovoked,Torres Strait,Near Boydong Cay,Free diving for trochus ,M,unknown,Y,unknown,"Tiger shark, 3.4 m [11'] "
 1933.11.18,18/11/1933,1933,Unprovoked,Queensland,Near Barrow Point,Pearl diving,M,17,N,unknown,Tiger shark
@@ -1003,7 +1003,7 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1927.04.08,8/04/2027,1927,Unprovoked,Queensland,Near Thursday Island,Pearl diving,M,unknown,N,unknown,unknown
 1927.03.01,11/03/2027,1927,Unprovoked,New South Wales,Mereweather Beach,Body surfing / treading water,M,17,N,15h00,Grey nurse shark?
 1927.02.09,9/02/2027,1927,Unprovoked,Queensland,Brisbane River,Attempting to rescue drowning man,M,unknown,N,unknown,unknown
-1927.01.03,3/01/2027,1927,Unprovoked,New South Wales,"Grey’s Point, Port Hacking",Swimming,M,15,Y,11h30,3.7 m [12'] shark
+1927.01.03,3/01/2027,1927,Unprovoked,New South Wales,"Greyï¿½s Point, Port Hacking",Swimming,M,15,Y,11h30,3.7 m [12'] shark
 1927.00.00.b,10/04/1905,1927,Unprovoked,New South Wales,15 miles up the Cataract River,Swimming,M,10,Y,unknown,unknown
 1927.00.00.a,10/04/1905,1927,Unprovoked,Torres Strait,Thursday Island,Pearl diving,M,unknown,N,unknown,unknown
 1926.12.02.R,2/12/1926,1926,Unprovoked,Torres Strait,Palm Island,Diving for trochus,M,unknown,Y,unknown,unknown
@@ -1012,8 +1012,8 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1926.03.17,17/03/2026,1926,Unprovoked,South Australia,"West Beach, Brighton",Swimming ,F,unknown,Y,15h45,"White shark, 3.7 m [12']  "
 1926.01.00,26/01/2020,1926,Unprovoked,Victoria,unknown,unknown,M,unknown,N,unknown,unknown
 1925.11.22,22/11/2025,1925,Unprovoked,Western Australia,Cottesloe Beach,Floating on his back,M,55,Y,15h15,"Tiger shark, 4 m [13'] female"
-1925.06.15,15/06/2025,1925,unknown,Western Australia,"Princess Royal Harbor, near King George’s Sound",unknown,unknown,unknown,unknown,unknown,unknown
-1925.03.27,27/03/1925,1925,Unprovoked,New South Wales,Coogee,Bathing in waist-deep water,M,16,N,17h00,Said to be a “small shark”
+1925.06.15,15/06/2025,1925,unknown,Western Australia,"Princess Royal Harbor, near King Georgeï¿½s Sound",unknown,unknown,unknown,unknown,unknown,unknown
+1925.03.27,27/03/1925,1925,Unprovoked,New South Wales,Coogee,Bathing in waist-deep water,M,16,N,17h00,Said to be a ï¿½small sharkï¿½
 1925.03.12,12/03/2025,1925,Unprovoked,New South Wales,Newcastle Beach,Swimming,M,16,Y,15h15,unknown
 1924.10.18,18/10/2024,1924,Unprovoked,Victoria,Port Melbourne,Bathing,M,unknown,N,unknown,10' shark
 1924.04.25,25/04/2024,1924,Unprovoked,New South Wales,Kiama,"Fishing, fell in water & swimming strongly to shore",M,20,Y,Afternoon,unknown
@@ -1045,8 +1045,8 @@ Case,Date,Year,Type,Area,Location,Activity,Sex ,Age,Fatal,Time,Species
 1922.01.13,13/01/2022,1922,Unprovoked,New South Wales,"Stockton Beach, Newcastle",Standing,M,unknown,N,18h00,Grey nurse shark?
 1922.01.04,4/01/2022,1922,Unprovoked,New South Wales,"Stockton Beach, Newcastle",Surfing,M,26,Y,Evening,unknown
 1921.12.11,11/12/2021,1921,Unprovoked,Queensland,Fitzroy River at  Rockhampton,Swimming,M,20,N,unknown,unknown
-1921.11.27.b,27/11/2021,1921,Unprovoked,Queensland,"Gay’s Corner, Bulimba Reach of Brisbane River",Fell from his father's back into the water,M,8,Y,Morning,unknown
-1921.11.27.a,27/11/2021,1921,Unprovoked,Queensland,"Gay’s Corner, Bulimba Reach of Brisbane River","Wading to dinghy, carrying his son",M,40,N,Morning,unknown
+1921.11.27.b,27/11/2021,1921,Unprovoked,Queensland,"Gayï¿½s Corner, Bulimba Reach of Brisbane River",Fell from his father's back into the water,M,8,Y,Morning,unknown
+1921.11.27.a,27/11/2021,1921,Unprovoked,Queensland,"Gayï¿½s Corner, Bulimba Reach of Brisbane River","Wading to dinghy, carrying his son",M,40,N,Morning,unknown
 1921.10.12,12/10/2021,1921,Unprovoked,Queensland,Off Hinchinbrook Island,Diving for beche-de-mer ,M,unknown,N,unknown,unknown
 1921.10.04,4/10/2021,1921,Unprovoked,Queensland,Barrier Reef,Diving for beche-de-mer,M,22,Y,Afternoon,unknown
 1921.08.29.R,29/08/1929,1921,Unprovoked,Torres Strait,unknown,unknown,M,unknown,N,unknown,unknown
