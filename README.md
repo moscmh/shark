@@ -1,6 +1,8 @@
 # Shark Attacks Analysis
 The dataset is provided by [Mysar Ahmad Bhat](https://www.kaggle.com/datasets/mysarahmadbhat/shark-attacks).
 
+1. Exploratory Data Analysis
+
 ## Data Cleaning
 * Unspecified month were removed.
 * Year < 1900 were removed.
